@@ -14,4 +14,4 @@ The model is trained using the GTZAN Music Genre Dataset (https://www.kaggle.com
 
 
 ## How to Use
-As the program is still in alpha stage, you have to run the program through a Python IDE by running Main.py. After running the file, simply click "Choose a Song" button and pick the song of your choice. Currently only .wav files are supported for compatibility with Librosa.
+As the program is still in alpha stage, you have to run the program through a Python IDE by running Main.py. Do note that you need to have installed the libraries in "Libraries Used.md". After running the file, simply click "Choose a Song" button and pick the song of your choice. Currently only .wav files are supported for compatibility with Librosa.
